@@ -15,7 +15,7 @@
 > vs random screening.
 
 ---
-
+![BatteryOracle Prediction Dashboard](prediction.png)
 ## What This Project Does
 
 Discovering high-performance battery materials requires hundreds of
