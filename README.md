@@ -11,11 +11,10 @@
 
 > A Gaussian Process active learning framework that predicts battery
 > Remaining Useful Life (RUL) and autonomously selects the most
-> informative experiments — reducing experimental cost by **~46%**
-> vs random screening.
+> informative experiments 
 
 ---
-![BatteryOracle Prediction Dashboard](prediction.png)
+![BatteryOracle Prediction Dashboard](figures/prediction.png)
 ## What This Project Does
 
 Discovering high-performance battery materials requires hundreds of
