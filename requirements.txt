@@ -4,8 +4,8 @@ scikit-learn
 scipy
 matplotlib
 seaborn
-streamlit
+streamlit==1.35.0
 pyyaml
 jupyter
 pytest
-altair
+altair==5.3.0
