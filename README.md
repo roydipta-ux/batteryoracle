@@ -6,7 +6,11 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Method](https://img.shields.io/badge/Method-Bayesian_Active_Learning-orange)
 ![Dataset](https://img.shields.io/badge/Dataset-NASA_Battery_RUL-red)
-![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-ff4b4b)
+
+### Live Remaining Useful Life (RUL) Predictor
+Below is the dashboard for predicting battery cycle life based on operating parameters like temperature rise and voltage variance.
+
+![BatteryOracle Prediction Dashboard](prediction.png)
 
 > A Gaussian Process active learning framework that predicts battery
 > Remaining Useful Life (RUL) and autonomously selects the most
