@@ -8,7 +8,7 @@
 ![Dataset](https://img.shields.io/badge/Dataset-NASA_Battery_RUL-red)
 ![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-ff4b4b)
 
-![BatteryOracle Prediction Dashboard](prediction.png)
+
 > A Gaussian Process active learning framework that predicts battery
 > Remaining Useful Life (RUL) and autonomously selects the most
 > informative experiments — reducing experimental cost by **~46%**
