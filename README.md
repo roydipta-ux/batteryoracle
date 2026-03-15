@@ -14,7 +14,7 @@
 > informative experiments 
 
 ---
-![BatteryOracle Prediction Dashboard](figures/prediction.png)
+
 ## What This Project Does
 
 Discovering high-performance battery materials requires hundreds of
